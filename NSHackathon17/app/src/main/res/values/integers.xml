@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="questionAmount">5</integer>
+    <integer name="questionProgress">1</integer>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DoNext</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_final_page">FinalPage</string>
+    <string name="FinalPageTitle">Results</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
